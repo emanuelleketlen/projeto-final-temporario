@@ -1,0 +1,36 @@
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+}
+        
+
+
+    
+.card2{
+    display: flex;
+    
+}
+.instagram{
+    width: 60px;
+}
+.facebook{
+    width: 60px;
+
+}
+.caso{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imagem{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.navbar {
+display: flex;
+justify-content: center;
+}
+.imagem img{
+    border: medium solid green;
+}
+
