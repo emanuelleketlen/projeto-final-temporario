@@ -1,24 +1,9 @@
-.texto{
-    font-family: 'Courier New', Courier, monospace;
-}
-        
-img{
-    border-color: blue;
-}
-.card2{
-    max-width: 80%;
-}
-    
-.card2{
-    display: flex;
-}
-.instagram{
-    width: 60px;
-}
-.facebook{
-    width: 60px;
-
-}
-.caso{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+*{
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
 }
